@@ -11,3 +11,5 @@ def log_writer(message):
         datefmt='%m/%d/%Y %I:%M:%S %p'
     )
     logging.info(message)
+    python3 nexfil.py -u romy.gysin
+    
